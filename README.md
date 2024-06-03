@@ -6,18 +6,16 @@ This repository contains a Google colab notebook that demonstrates the use of th
 
 To run the notebook, you will need to install the necessary dependencies. You can do this by running:
 
-\`\`\`bash
+`bash
 pip install ollama
-pip install llama3
-\`\`\`
+pip install llama3`
 
 ## Running the Notebook
 
 To start the Jupyter notebook, run the following command in your terminal:
 
-\`\`\`bash
-jupyter notebook
-\`\`\`
+`bash
+jupyter notebook`
 
 Navigate to the `ollama_llama3_notebook.ipynb` file and open it to interact with the pre-built examples.
 
