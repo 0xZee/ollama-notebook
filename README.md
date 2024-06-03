@@ -1,21 +1,21 @@
 # Running Ollama on Google Notebook with llama3 Model
 
-This repository contains a Google colab notebook that demonstrates the use of the Ollama framework with the llama3 model for natural language processing tasks.
+This repository contains a `Google colab notebook` that demonstrates the use of the `Ollama` framework with the llama3 model for natural language processing tasks.
 
 ## Installation
 
 To run the notebook, you will need to install the necessary dependencies. You can do this by running:
 
-`bash
-pip install ollama
-pip install llama3`
+`bash`
+`pip install ollama`
+`pip install llama3`
 
 ## Running the Notebook
 
 To start the Jupyter notebook, run the following command in your terminal:
 
-`bash
-jupyter notebook`
+`bash`
+`jupyter notebook`
 
 Navigate to the `ollama_llama3_notebook.ipynb` file and open it to interact with the pre-built examples.
 
