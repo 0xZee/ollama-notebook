@@ -1,6 +1,6 @@
 # Running Ollama on Google Notebook with llama3 Model
 
-This repository contains a Jupyter notebook that demonstrates the use of the Ollama framework with the llama3 model for natural language processing tasks.
+This repository contains a Google colab notebook that demonstrates the use of the Ollama framework with the llama3 model for natural language processing tasks.
 
 ## Installation
 
